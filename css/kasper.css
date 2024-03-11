@@ -867,7 +867,7 @@ a.more{
         justify-content: center;
     }
     .subscribe .container form i{
-        left: 40px;
+        left: 20px;
     }
     .subscribe .container{
         flex-direction: column;
