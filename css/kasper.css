@@ -293,6 +293,7 @@ header .container nav ul li a:hover{
     }
     .services .container .services-container .srv-box i{
         margin-bottom: 20px;
+        margin-right: 0;
     }
 }
 .services .container .services-container .srv-box .text-box h2{
@@ -866,7 +867,7 @@ a.more{
         justify-content: center;
     }
     .subscribe .container form i{
-        left: 80px;
+        left: 40px;
     }
     .subscribe .container{
         flex-direction: column;
